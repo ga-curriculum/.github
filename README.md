@@ -1,42 +1,31 @@
-<img width="100%" src="./assets/ga-logo.png" />
+<img width="100%" src="../assets/ga-logo.png" />
 
-# GA Curriculum
+# General Assembly Curriculum
 
-This organization contains General Assembly’s **public modular curriculum** used across Canvas-based courses.
+Welcome to the official public curriculum organization for General Assembly. This space hosts the modular lesson content and course materials used across our global programs.
 
-## Purpose
+---
 
-To provide reusable, student-facing lesson modules that support GA programs.
+## Welcome, Students
 
-## What Belongs Here
+The repositories found in this organization are designed to support your learning and skills development. You are encouraged to explore and interact with these materials as part of your program.
 
-- Individual lesson modules
-- Reusable course content used across multiple programs
+### Guidelines for Using These Materials
 
-## What Does NOT Belong Here
+* **Viewing Content:** All materials in this organization are public. You do not need a General Assembly-specific GitHub account to view them; please use your personal GitHub account.
+* **Forking and Cloning:** You are encouraged to fork these repositories to your personal account. This allows you to maintain your own copy of exercises and keep the materials for reference after your course is complete.
+* **Course Navigation:** Your instructional team will provide direct links to the specific versions of the curriculum required for your cohort.
 
-- Enterprise-specific programs
-- Student delivery repositories
-- Draft or in-progress content
+---
 
-## Key Characteristics
+## Enterprise and Client Programs
 
-- Repositories are **public**
-- Content is **linked directly in Canvas**
-- Students can view without logging in
-- Students may fork repositories to keep their own copy
+If you are enrolled in a private enterprise cohort, please note that some of your course materials may be hosted in separate, private organizations to ensure security and data privacy. Your instructor or Customer Success Manager (CSM) will provide the necessary access to those specific resources.
 
-## How to Work in This Org
 
-- All updates must be made on a **branch**
-- Changes require a **pull request and review**
-- Do not push directly to main
+## Support and Resources
 
-## Access Model
+* **Instructional Support:** If you encounter a broken link or have questions regarding a specific lesson, please contact your instructional team.
+* **Technical Assistance:** For issues regarding your GitHub account or general platform functionality, please refer to the GitHub Help Documentation.
 
-- Maintained by LEDs, SMEs, and approved contributors
-- Students are **not added** to this org
-
-## Related Documentation
-
-[GA's Official GitHub Curriculum Operating Model](#)
+---
