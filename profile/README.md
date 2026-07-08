@@ -1,31 +1,25 @@
 <img width="100%" src="../assets/ga-logo-white-background.png" />
 
-# General Assembly Curriculum
+# General Assembly | Open Curriculum Modules
 
-Welcome to the official public curriculum organization for General Assembly. This space hosts the modular lesson content and course materials used across our global programs.
+General Assembly's **public, modular lesson content**. Many of these repositories are linked directly into GA's Canvas courses, and they are free to read and fork.
 
----
-
-## Welcome, Students
-
-The repositories found in this organization are designed to support your learning and skills development. You are encouraged to explore and interact with these materials as part of your program.
-
-### Guidelines for Using These Materials
-
-* **Viewing Content:** All materials in this organization are public. You do not need a General Assembly-specific GitHub account to view them; please use your personal GitHub account.
-* **Forking and Cloning:** You are encouraged to fork these repositories to your personal account. This allows you to maintain your own copy of exercises and keep the materials for reference after your course is complete.
-* **Course Navigation:** Your instructional team will provide direct links to the specific versions of the curriculum required for your cohort.
+> **For learners:** no account or membership needed. Browse any repository here and **fork** one to keep your own copy — including after your course ends. Looking for a specific cohort or enterprise program? Those are private; your instructor will add you to your cohort's repository directly.
 
 ---
 
-## Enterprise and Client Programs
+<details>
+<summary><strong>For GA staff who want to contribute or maintain modules</strong></summary>
 
-If you are enrolled in a private enterprise cohort, please note that some of your course materials may be hosted in separate, private organizations to ensure security and data privacy. Your instructor or Customer Success Manager (CSM) will provide the necessary access to those specific resources.
+1. Have a **personal GitHub account** with **two-factor authentication (2FA) enabled** — https://github.com/settings/security
+2. [Email/Slack (TBD)](#) with your **role** and the **program** you are working on.
 
+Once approved, you will receive a GitHub invitation to the Org.
 
-## Support and Resources
+Contributions are also welcome by fork and pull request without membership.
 
-* **Instructional Support:** If you encounter a broken link or have questions regarding a specific lesson, please contact your instructional team.
-* **Technical Assistance:** For issues regarding your GitHub account or general platform functionality, please refer to the GitHub Help Documentation.
+</details>
 
 ---
+
+For anything not covered here, contact General Assembly through your existing point of contact.
