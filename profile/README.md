@@ -2,24 +2,25 @@
 
 # General Assembly | Open Curriculum Modules
 
-General Assembly's **public, modular lesson content**. Many of these repositories are linked directly into GA's Canvas courses, and they are free to read and fork.
+This organization holds General Assembly's **public, open lesson modules** — reusable course content that is linked into GA's Canvas classes and free for anyone to read, clone, and fork.
 
-> **For learners:** no account or membership needed. Browse any repository here and **fork** one to keep your own copy — including after your course ends. Looking for a specific cohort or enterprise program? Those are private; your instructor will add you to your cohort's repository directly.
+> **Are you a student?** Yes — this space is open to you. Browse any repository here and **fork** it to keep your own copy, even after your course ends. You don't need an account or any special access. If you're looking for a specific cohort or enterprise program, that content is private and your instructor will add you to your cohort's repository directly.
 
 ---
 
 <details>
-<summary><strong>For GA staff who want to contribute or maintain modules</strong></summary>
+<summary><strong>GA team members — how to request access</strong></summary>
 
-1. Have a **personal GitHub account** with **two-factor authentication (2FA) enabled** — https://github.com/settings/security
-2. [Email/Slack (TBD)](#) with your **role** and the **program** you are working on.
+1. Make sure you have a **personal GitHub account** with **two-factor authentication (2FA) enabled** — https://github.com/settings/security
+2. Request access through **[GA's GitHub access request channel](#)** _(Slack channel — TBD)_ <!-- TODO: replace (#) with the Slack channel link once it is created --> with your **role** and the **team or program** you're joining.
 
-Once approved, you will receive a GitHub invitation to the Org.
+Access is granted at the **organization level**, not per repository. Once you're approved and added as an org member, you'll have access across this organization — there's no need to request individual repos.
 
-Contributions are also welcome by fork and pull request without membership.
+You can also contribute to these public modules by **fork and pull request** without any membership.
 
 </details>
 
 ---
 
-For anything not covered here, contact General Assembly through your existing point of contact.
+**Questions, or not sure why you're here?**
+If you're not a GA student or team member, head to **[generalassemb.ly](https://generalassemb.ly)** to explore our courses and get in touch.
